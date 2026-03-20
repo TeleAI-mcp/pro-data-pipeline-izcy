@@ -1,2 +1,3 @@
-# pro-data-pipeline-izcy
-Repository to test GitHub automation for issue management
+# Pro Data Pipeline Izcy
+
+A repository to test GitHub automation for issue management.
